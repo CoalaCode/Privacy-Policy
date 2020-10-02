@@ -1,8 +1,6 @@
 # Privacy-Policy
 This is the privacy policy for the game Meme Memory
 
-Privacy Policy
-
 Coala Codes built the Meme Memory app as a Free app. 
 This SERVICE is provided by Coala Codes at no cost and is intended for use as is. 
 This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service. 
